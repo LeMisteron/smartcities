@@ -8,7 +8,8 @@ Microcontrôleur : basé sur la puce RP2350, une évolution du RP2040, intégran
 Mémoire : dispose de 520 Ko de SRAM et de 4 Mo de mémoire flash intégrée.
 
 Connectivité sans fil : intègre le Wi-Fi 2,4 GHz et le Bluetooth 5.2 (LE), offrant des possibilités étendues pour les projets IoT.
-Programmation : compatible avec MicroPython, C/C++ et d’autres langages pris en charge par le SDK officiel de Raspberry Pi.
+
+Programmation : compatible avec MicroPython, C/C++ et d’autres langages pris en charge.
 
 Interfaces d’E/S : comprend 26 broches GPIO, dont plusieurs peuvent être utilisées pour l’I2C, SPI, UART, PWM ou ADC.
 
