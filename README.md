@@ -4,7 +4,8 @@ Dans le cadre du cours « Smartcities & IoT », nous menons des projets utilisan
 
 # Raspberry Pi Pico w
 
-![image alt](https://github.com/hepl-anesi/smartcities/blob/main/Pi_pico.png?raw=true)
+<img width="842" height="595" alt="image" src="https://github.com/user-attachments/assets/18a662f5-e6c2-4443-8b24-2a6fac85ccce" />
+
 
 Microcontrôleur : basé sur la puce RP2350, une évolution du RP2040, intégrant un processeur dual-core Arm Cortex-M33 cadencé jusqu’à 150 MHz.
 
