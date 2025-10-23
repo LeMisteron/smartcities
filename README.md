@@ -3,6 +3,8 @@
 Dans le cadre du cours « Smartcities & IoT », nous menons des projets utilisant un Raspberry Pi Pico W programmé en MicroPython. L’objectif de ce cours est de nous initier à ce langage à travers la mise en œuvre d’un kit Grove de base.
 
 # Raspberry Pico 2w
+<img width="842" height="595" alt="image" src="https://github.com/user-attachments/assets/73c01943-de04-465e-9787-4ad7f565987a" />
+
 Microcontrôleur : basé sur la puce RP2350, une évolution du RP2040, intégrant un processeur dual-core Arm Cortex-M33 cadencé jusqu’à 150 MHz.
 Mémoire : dispose de 520 Ko de SRAM et de 4 Mo de mémoire flash intégrée.
 Connectivité sans fil : intègre le Wi-Fi 2,4 GHz et le Bluetooth 5.2 (LE), offrant des possibilités étendues pour les projets IoT.
